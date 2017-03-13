@@ -84,3 +84,16 @@ $color-accent-contrast: 66,66,66;
 .mdl-menu__item a:hover{
     color: inherit;
 }
+
+.mdl-layout-title > a {
+    text-decoration: none;
+}
+
+.page-content {
+    width: 75%;
+    margin: auto;
+}
+
+.index-question-title {
+    text-overflow: ellipsis;
+}
